@@ -9,7 +9,7 @@ categories:
 abbrlink: 1099619583
 date: 2018-04-12 21:18:47
 ---
-spring boot整合swagger打包之后使用nginx出错无法使用解决。
+spring boot整合swagger打包之后使用nginx代理出错无法使用解决。错误为：`"no content" and Response Code 0` 或者 `使用spring security，公开访问的资源出现403`
 <!-- more -->
 
 可尝试
