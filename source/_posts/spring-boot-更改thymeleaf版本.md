@@ -8,9 +8,10 @@ categories:
 abbrlink: 3210521597
 date: 2018-04-05 21:26:39
 ---
+spring boot下更改thymeleaf版本
 
-Maven配置
 <!-- more -->
+Maven配置
 ```
 <properties>
     <thymeleaf.version>3.0.2.RELEASE</thymeleaf.version>

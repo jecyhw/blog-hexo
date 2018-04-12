@@ -1,5 +1,5 @@
 ---
-title: ubuntu14.04添加静态ip和dns
+title: ubuntu添加静态ip和dns
 tags:
   - ubuntu
   - ip
@@ -9,9 +9,10 @@ categories:
 abbrlink: 3414172487
 date: 2018-04-05 14:36:13
 ---
-
-### 添加静态ip
+ubuntu下添加静态ip和dns
 <!-- more -->
+### 添加静态ip
+
 修改/etc/network/interfaces文件
 ``` 
 auto eth0 

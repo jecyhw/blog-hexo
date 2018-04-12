@@ -7,9 +7,10 @@ categories:
 abbrlink: 2735220453
 date: 2018-04-05 15:10:26
 ---
-
-### 添加证书
+ubuntu下添加可信证书
 <!-- more -->
+### 添加证书
+
 证书(扩展名为crt)复制到**/usr/local/share/ca-certificates**文件夹然后运行update-ca-certificates
 ``` 
 sudo cp zhengshu.crt /usr/local/share/ca-certificates

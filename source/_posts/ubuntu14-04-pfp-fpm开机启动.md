@@ -8,9 +8,10 @@ categories:
 abbrlink: 45252325
 date: 2018-04-05 15:25:46
 ---
-
-### php下载
+ubuntu14.04下设置pfp-fpm开机启动
 <!-- more -->
+### php下载
+
 下载php的源码，编译好就行，然后找到init.d.php-fpm.in文件，拷贝到/etc/init.d/目录下，名字为php-fpm
 
 ### 修改php-fpm文件

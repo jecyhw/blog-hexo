@@ -7,9 +7,9 @@ categories:
 abbrlink: 3741088398
 date: 2018-04-05 15:00:48
 ---
-
-### 新建tags页面
+hexo生成tags链接
 <!-- more -->
+### 新建tags页面
 ``` 
 hexo new page "tags"
 ```

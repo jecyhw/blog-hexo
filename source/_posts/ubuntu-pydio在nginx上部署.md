@@ -9,10 +9,10 @@ categories:
 abbrlink: 3766093411
 date: 2018-04-05 15:18:45
 ---
-
-
-### pydio依赖环境
+ubuntu下使用nginx部署pydio
 <!-- more -->
+### pydio依赖环境
+
 #### php5.6安装
 ``` 
 sudo add-apt-repository ppa:ondrej/php

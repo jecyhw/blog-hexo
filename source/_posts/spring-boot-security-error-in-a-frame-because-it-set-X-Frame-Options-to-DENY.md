@@ -9,7 +9,7 @@ categories:
 abbrlink: 2914312071
 date: 2018-04-05 21:21:44
 ---
-解决办法
+spring boot security出现in a frame because it set 'X-Frame-Options' to DENY错误解决办法
 <!-- more -->
 ``` 
 @Configuration

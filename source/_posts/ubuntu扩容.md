@@ -7,9 +7,10 @@ categories:
 abbrlink: 3164053385
 date: 2018-04-05 15:29:01
 ---
-
-### 直接挂载NTFS分区
+ubuntu挂载NTFS分区和挂载ext4分区来扩容
 <!-- more -->
+### 直接挂载NTFS分区
+
 
 1. 新建挂载点`sudo mkdir -p /windows/sda8`
     

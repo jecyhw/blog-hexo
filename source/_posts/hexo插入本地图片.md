@@ -8,9 +8,9 @@ categories:
 abbrlink: 809422878
 date: 2018-04-05 19:37:28
 ---
-
-### 修改_config.yml
+hexo博客引用本地图片并提交
 <!-- more -->
+### 修改_config.yml
 找到post_asset_folder设置为true
 ```
 post_asset_folder: true

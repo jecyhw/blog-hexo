@@ -7,10 +7,11 @@ categories:
 abbrlink: 2943276818
 date: 2018-04-05 19:53:16
 ---
-
- 
-### 创建hadoop用户
+ubuntu14.04下hadoop单机和伪分布式的安装步骤
 <!-- more -->
+
+### 创建hadoop用户
+
 添加hadoop用户（用户名字可以自己起）
 ```bash
 sudo useradd -m hadoop -s /bin/bash 

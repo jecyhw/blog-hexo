@@ -7,9 +7,9 @@ categories:
 abbrlink: 126721933
 date: 2018-04-05 21:32:06
 ---
-
-### 方法1
+spring mvc中ResponseEntity的中文返回乱码解决方法
 <!-- more -->
+### 方法1
 在`@RequestMapping`注解中声明`prodeces={"application/json; charset=utf-8"}`可以解决
 
 ### 方法2

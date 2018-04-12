@@ -8,9 +8,10 @@ categories:
 abbrlink: 314144721
 date: 2018-04-05 15:32:22
 ---
-
-### grub启动修复
+ubuntu启动进入grub或者grub-rescue下，启动项修复
 <!-- more -->
+### grub启动修复
+
 先加载启动文件进入ubuntu
 ``` 
 set root=(hd0,8); (可以通过root来查看硬盘分区,root (hd0,x)查看分区格式,找到ubuntu启动项所在分区)

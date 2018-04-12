@@ -9,9 +9,10 @@ categories:
 abbrlink: 2740217651
 date: 2018-04-05 15:17:17
 ---
+ubuntu下apache2启用python-cgi
 <!-- more -->
 ### 安装apache2
-<!-- more -->
+
 ```
 sudo apt-get install apache2
 ```
