@@ -23,7 +23,7 @@ ng new electron-angular-demo
 ``` 
 npm install
 ```
-使用IDE工具打开 `electron-angular-demo`
+使用IDE工具打开 `electron-anguhelar-demo`
 
 更新 `src/index.html`
 ``` 
