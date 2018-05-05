@@ -2,7 +2,8 @@
 title: ubuntu执行apt update出现Aborted (core dumped)错误
 abbrlink: 2007401021
 date: 2018-05-04 17:43:11
-tags:
+tags: [ubuntu]
+categories: [ubuntu]
 ---
 ubuntu执行sudo apt update出现下面错误
 ```
