@@ -15,7 +15,9 @@ date: 2018-05-05 18:02:47
 ```
 git remote add upstream git@github.com:soimort/you-get.git
 ``` 
+
 2. 将本地修改的commit下
+
 3. push前执行
 ``` 
 git remote update upstream
